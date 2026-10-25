@@ -1,6 +1,6 @@
 # Hi there, I'm Kenneth Thompson (▀̿Ĺ̯▀̿ ̿)
 
-I graduated with a Master's in Computer Science from the University of Oklahoma, and I love building backend systems, games, and tools people actually use.
+I graduated with a Master's in Computer Science from the University of Oklahoma, and I love building backend systems, games, and tools people actually use. I grew up wanting to make a difference in my community, and I want my work to reach people and show them they are appreciated and heard, no matter the form.
 
 ---
 
@@ -10,14 +10,12 @@ I graduated with a Master's in Computer Science from the University of Oklahoma,
 - Python
 - C++
 - JavaScript
+- SQL *(currently deepening)*
 
 **Frameworks & Libraries**
 - React
 - Unity
 - Node.js
-
-**Databases**
-- SQL *(currently deepening)*
 
 ---
 
@@ -26,17 +24,6 @@ I graduated with a Master's in Computer Science from the University of Oklahoma,
 - Strengthening my **SQL** skills: schema design, queries, and optimization
 - Building backend services with **Node.js**
 - Studying **System Design** to build scalable, reliable applications
-
----
-
-## About Me / Fun Facts ༼ つ ◕_◕ ༽つ
-
-I'm a computer scientist based in Norman, Oklahoma, who grew up wanting to make a difference in the community around me. I want my work to be able to reach people and show that they are appreciated and heard, no matter the form.
-
-- I captained a collegiate VALORANT team, handling strategy meetings, player evaluations, and conflict resolution.
-- I am a founding member of the organization Asian-Americans and Creative Spaces (AACS) at the University of Oklahoma, where I was the Director of Fundraising
-- I love to go to the movies and play video games with my friends in my free time
-- Video games and their development are what got me into programming
 
 ---
 
